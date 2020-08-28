@@ -1,0 +1,3 @@
+git add . 			// Addaa koko folderin
+git commit -m "message" 	//committaa messagella
+git push 			//pushaa koko kansion
